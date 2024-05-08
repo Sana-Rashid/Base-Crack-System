@@ -1,4 +1,4 @@
-# A Powerful Tool for Decoding Multiple Base Encodings
+# Base Crack System: A Powerful Tool for Decoding Multiple Base Encodings
 
 ### Introduction
 
