@@ -9,7 +9,7 @@ BaseCrackSystem is a comprehensive Python library designed to empower you to dec
 ### Extensive Base Encoding Support:
 Handles a vast array of encoding schemes, including common ones like Base16, Base32, Base64, Base91, Base92 and Base100, as well as less common ones like Base85 and Ascii85.
 ### Multi-Encoding Decoding:
-Seamlessly deciphers data that has been encoded with multiple layers of different base encodings. No need to manually decode each layer separately.
+Decodes data that has been encoded with multiple layers of different base encodings. No need to manually decode each layer separately.
 ### Image-Based Base Detection:
 Integrates with Optical Character Recognition (OCR) to decode bases embedded within images as text.
 ### EXIF Data Decoding:
